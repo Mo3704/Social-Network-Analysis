@@ -5,6 +5,10 @@ This project analyzes and compares the structural properties of two types of Twi
 - **Conspiracy-focused networks** ( 5G caused covid)
 - **Normal conversational networks**
 
+##  File Structure
+- gephi file contain both graphs Conspiracy and non-conspiracy graphs visualized in a representable way with some statistics
+- Project Report contain interpretation and insigths of the graphs and compare between both of them 
+
 The goal is to identify key differences in network topology, influence patterns, and community behavior that may indicate misinformation spread or echo chamber formation.
 
 ---
