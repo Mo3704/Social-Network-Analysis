@@ -1,5 +1,3 @@
-# Social-Network-Analysis
-
 # Social Network Analysis: Conspiracy vs. Normal Twitter Networks
 
 ##  Project Overview
