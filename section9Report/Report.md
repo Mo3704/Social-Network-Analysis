@@ -80,6 +80,13 @@ After training, the model was evaluated, and it predicted the class for all 6 no
 
 **Final Output:** Predicted labels: `[0, 0, 0, 1, 1, 1]`.
 
+# Improvements & Future Work
+
+**Next Steps:**  
+1. **Add dropout & batch normalization layers**  
+2. **Track precision/recall/F1 scores**  
+3. **Implement attention mechanisms for better feature weighting**
+   
 ### Key Takeaway
 
 The model correctly classified **Node 2** as benign, despite its direct connection to **Node 3** (malicious). This proves the model's ability to weigh the majority of neighborhood evidence (connections to 0 and 1) over a single anomalous connection.
@@ -97,3 +104,4 @@ To install the primary dependency:
 ```bash
 
 pip install torch_geometric
+
